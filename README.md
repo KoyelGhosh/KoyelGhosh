@@ -82,7 +82,7 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 
 **Core Concepts**
 
-![OOP](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
+![OOPS](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
@@ -93,7 +93,7 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 ![Backend Development](https://img.shields.io/badge/Backend_Development-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![REST APIs](https://img.shields.io/badge/REST_API_Design-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![AI/ML](https://img.shields.io/badge/Applied_AI%2FML-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
-![OOP](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
+![OOPS](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![Community](https://img.shields.io/badge/Community_Contributor-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![DSA](https://img.shields.io/badge/DSA-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 
@@ -225,20 +225,6 @@ Developed a full-stack desktop application that automated book cataloging, membe
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-## Summary Cards
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=KoyelGhosh&theme=dracula"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
 ## Contribution Snake
 

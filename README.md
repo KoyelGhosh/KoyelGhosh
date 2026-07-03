@@ -113,7 +113,7 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 | CS Fundamentals | Strong | DSA, Operating Systems, Computer Networks |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
-Featured Projects
+## Featured Projects
 
 <details open>
 <summary><strong>🧬 RiverSense AI — eDNA Biodiversity Report System</strong></summary>

@@ -113,54 +113,30 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 | CS Fundamentals | Strong | DSA, Operating Systems, Computer Networks |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
-
-## Featured Projects
+Featured Projects
 
 <details open>
 <summary><strong>🧬 RiverSense AI — eDNA Biodiversity Report System</strong></summary>
-
 <br>
-
 An environmental-tech project that reads eDNA FASTQ files, analyzes biodiversity data, and generates critical/health status reports — with automated email delivery to Indian biodiversity organizations.
 
-| | |
-|---|---|
-| **Stack** | Python, FastAPI, SQLite |
-| **My Contribution** | Backend — API layer, FASTQ data handling, report generation, email dispatch pipeline |
-| **Impact** | Automates biodiversity health reporting for environmental organizations |
+StackPython, FastAPI, SQLiteMy ContributionBackend — API layer, FASTQ data handling, report generation, email dispatch pipelineImpactAutomates biodiversity health reporting for environmental organizations
 
 </details>
-
-<details>
+<details open>
 <summary><strong>⚖️ Legal Document Summarizer</strong></summary>
-
 <br>
-
 Fine-tuned Gemini Flash and engineered prompts to automatically condense complex legal texts into plain-language summaries. The tool translates jargon and trims content while preserving key contractual details, delivering concise briefs that are faster for lawyers and clients to review.
 
-| | |
-|---|---|
-| **Stack** | Python, Gemini Flash (fine-tuned), Prompt Engineering |
-| **My Contribution** | AI/ML component — fine-tuning, prompt engineering, summarization pipeline |
-| **Impact** | ≈45% average content reduction while preserving key contractual details |
+StackPython, Gemini Flash (fine-tuned), Prompt EngineeringMy ContributionAI/ML component — fine-tuning, prompt engineering, summarization pipelineImpact≈45% average content reduction while preserving key contractual details
 
 </details>
-
-<details>
+<details open>
 <summary><strong>📚 Python Library Management System</strong></summary>
-
 <br>
-
 Developed a full-stack desktop application that automated book cataloging, member registration, and borrowing/return workflows. Implemented search, reporting, and overdue reminder features, while building a scalable foundation for future online reservations and digital-resource integration.
 
-| | |
-|---|---|
-| **Stack** | Python, Tkinter, SQLite |
-| **My Contribution** | Full-stack development — cataloging, search, reporting, overdue reminders |
-| **Impact** | 30% reduction in manual entry errors, 25% faster checkout process |
-
-</details>
-
+StackPython, Tkinter, SQLiteMy ContributionFull-stack development — cataloging, search, reporting, overdue remindersImpact30% reduction in manual entry errors, 25% faster checkout process
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
 ## Experience

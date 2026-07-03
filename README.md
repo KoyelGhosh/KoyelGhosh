@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,100:F38BA8&height=180&section=header&text=Koyel%20Ghosh&fontSize=48&fontColor=CDD6F4&fontAlignY=40&desc=Backend%20Developer%20%7C%203rd%20Year%20CSE%20Student&descSize=18&descAlignY=62&descColor=F38BA8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:302D41,100:F38BA8&height=190&section=header&text=Koyel%20Ghosh&fontSize=46&fontColor=F38BA8&fontAlignY=38&desc=Backend%20Developer%20%7C%203rd%20Year%20CSE%20Student&descSize=17&descAlignY=60&descColor=CDD6F4&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### `$ ./intro.sh`
+## About Me
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=F38BA8&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+3rd+Year+CSE+Student;Python+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+FastAPI;Building+RiverSense+AI+-+eDNA+Biodiversity+Reports;Community+Contributor+%7C+Open+Source+Enthusiast;Open+to+Backend+%2F+SDE+%2F+SQL+%2F+ML+Internships" alt="Typing SVG" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ whoami --details`
+## Education Snapshot
 
 <div align="center">
 
@@ -24,9 +24,9 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ connect --with koyel`
+## Connect With Me
 
 <div align="center">
 
@@ -38,9 +38,9 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ github stats --views`
+## Profile Stats
 
 <div align="center">
 
@@ -50,23 +50,23 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat about.md`
+## Who I Am
 
 I'm a backend developer and third-year CSE student who enjoys building secure, well-structured APIs and backend systems. I've worked across backend engineering, API design, and databases, with growing hands-on experience applying AI/ML to real projects — from document summarization to biodiversity data analysis. I'm also active as a community contributor and previously worked as a social media & PR intern.
 
 ```bash
 ROLE      : Backend Developer (3rd Year CSE Student)
 EXPERIENCE: Backend Development, REST APIs, DBMS, Version Control
-DOMAIN    : Backend Engineering, SDE, AI/ML, Biodiversity-Tech
+DOMAIN    : Backend Engineering, SDE, AI/ML, SQL
 STACK     : Python, Java, Spring Boot, FastAPI, SQL, Git, AWS
 OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ ls ~/skills`
+## Tech Stack
 
 **Languages**
 
@@ -80,23 +80,28 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 
 ![Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,aws&theme=dark)
 
----
+**Core Concepts**
 
-### `$ echo $SPECIALTIES`
+![OOP](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
+
+## Specialties
 
 <div align="center">
 
 ![Backend Development](https://img.shields.io/badge/Backend_Development-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![REST APIs](https://img.shields.io/badge/REST_API_Design-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![AI/ML](https://img.shields.io/badge/Applied_AI%2FML-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
+![OOP](https://img.shields.io/badge/OOP-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![Community](https://img.shields.io/badge/Community_Contributor-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 ![DSA](https://img.shields.io/badge/DSA-1E1E2E?style=flat-square&labelColor=1E1E2E&color=F38BA8)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat expertise.csv`
+## Areas of Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -107,9 +112,9 @@ OPEN_TO   : Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 | Cloud Basics | Familiar | AWS fundamentals |
 | CS Fundamentals | Strong | DSA, Operating Systems, Computer Networks |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ ls ~/projects --featured`
+## Featured Projects
 
 <details open>
 <summary><strong>🧬 RiverSense AI — eDNA Biodiversity Report System</strong></summary>
@@ -131,34 +136,34 @@ An environmental-tech project that reads eDNA FASTQ files, analyzes biodiversity
 
 <br>
 
-A tool that summarizes legal documents to make them easier to review and understand.
+Fine-tuned Gemini Flash and engineered prompts to automatically condense complex legal texts into plain-language summaries. The tool translates jargon and trims content while preserving key contractual details, delivering concise briefs that are faster for lawyers and clients to review.
 
 | | |
 |---|---|
-| **Stack** | Python, AI/ML |
-| **My Contribution** | AI/ML component — document summarization logic |
-| **Impact** | Reduces time spent manually reviewing lengthy legal text |
+| **Stack** | Python, Gemini Flash (fine-tuned), Prompt Engineering |
+| **My Contribution** | AI/ML component — fine-tuning, prompt engineering, summarization pipeline |
+| **Impact** | ≈45% average content reduction while preserving key contractual details |
 
 </details>
 
 <details>
-<summary><strong>📚 Library Management System</strong></summary>
+<summary><strong>📚 Python Library Management System</strong></summary>
 
 <br>
 
-A system built to manage core library operations.
+Developed a full-stack desktop application that automated book cataloging, member registration, and borrowing/return workflows. Implemented search, reporting, and overdue reminder features, while building a scalable foundation for future online reservations and digital-resource integration.
 
 | | |
 |---|---|
-| **Stack** | Backend-focused build (core stack: Python/Java) |
-| **My Contribution** | Backend development |
-| **Impact** | Streamlines day-to-day library record management |
+| **Stack** | Python, Tkinter, SQLite |
+| **My Contribution** | Full-stack development — cataloging, search, reporting, overdue reminders |
+| **Impact** | 30% reduction in manual entry errors, 25% faster checkout process |
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ git log --experience`
+## Experience
 
 **Social Media & PR Intern**
 `Community / Social Media` — *Internship*
@@ -169,9 +174,9 @@ A system built to manage core library operations.
 
 `Communication` `PR` `Social Media`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat achievements.log`
+## Certifications & Achievements
 
 <div align="center">
 
@@ -184,9 +189,9 @@ A system built to manage core library operations.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat education.txt`
+## Education
 
 <div align="center">
 
@@ -195,9 +200,9 @@ A system built to manage core library operations.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ ./analyze_github.sh`
+## GitHub Analytics
 
 <div align="center">
 
@@ -208,19 +213,9 @@ A system built to manage core library operations.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ ls -la ~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KoyelGhosh&theme=dracula&column=7&margin-w=8&margin-h=8&no-frame=true&title=Repositories,Stars,Followers,Commits,PullRequest,Issues,Experience&bg_color=1E1E2E&border_radius=8"/>
-
-</div>
-
----
-
-### `$ tail -f activity.log`
+## Activity Graph
 
 <div align="center">
 
@@ -228,24 +223,24 @@ A system built to manage core library operations.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat summary_cards.json`
+## Summary Cards
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=KoyelGhosh&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=KoyelGhosh&theme=dracula"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=KoyelGhosh&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=KoyelGhosh&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=KoyelGhosh&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=KoyelGhosh&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=KoyelGhosh&theme=dracula" width="49%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ ./snake_game.sh --run`
+## Contribution Snake
 
 <div align="center">
 
@@ -255,20 +250,20 @@ A system built to manage core library operations.
 
 > Note: the snake graphic only renders once you add the `platane/snk` GitHub Action workflow to your `KoyelGhosh/KoyelGhosh` repo (see final message for details).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ cat current_focus.yaml`
+## Current Focus
 
 ```yaml
-learning: Machine Learning fundamentals & applied ML
+learning: AI/Machine Learning fundamentals & applied ML
 building: Backend systems using FastAPI, Spring Boot, and SQL
-exploring: Biodiversity-tech & AI-powered backend integrations
+exploring: AI-powered backend integrations
 open_to: Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-### `$ echo "let's build something"`
+## Let's Build Something
 
 <div align="center">
 
@@ -280,6 +275,6 @@ open_to: Backend Developer Intern | SDE Intern | SQL Intern | ML Intern
 
 *"Building backend systems that are simple, secure, and built to scale."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:F38BA8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,50:302D41,100:F38BA8&height=130&section=footer" width="100%"/>
 
 </div>

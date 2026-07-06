@@ -179,18 +179,6 @@ StackPython, Tkinter, SQLiteMy ContributionFull-stack development — cataloging
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KoyelGhosh&show_icons=true&bg_color=1E1E2E&title_color=F38BA8&text_color=CDD6F4&icon_color=F38BA8&border_color=F38BA8&hide_border=false"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=KoyelGhosh&background=1E1E2E&border=F38BA8&stroke=F38BA8&ring=F38BA8&fire=F38BA8&currStreakLabel=F38BA8&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=CDD6F4"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyelGhosh&layout=compact&bg_color=1E1E2E&title_color=F38BA8&text_color=CDD6F4&border_color=F38BA8&hide_border=false"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:F38BA8,100:1E1E2E&height=3&section=header" width="100%"/>
 
 ## Activity Graph
 
